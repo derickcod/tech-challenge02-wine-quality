@@ -75,6 +75,5 @@ O arquivo `data/raw/WineQT.csv` contém 1.143 amostras e 13 colunas, incluindo o
 
 - Alan Lima — RM 375783
 - Derick Kavabata — RM 375932
-- Gustavo Toledo — RM 376220
 - Taís Santos — RM 375962
 - Victor Vallim — RM 375931
