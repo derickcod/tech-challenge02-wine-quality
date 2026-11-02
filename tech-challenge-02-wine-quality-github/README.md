@@ -4,10 +4,10 @@ Projeto acadêmico de análise exploratória e classificação da qualidade de v
 
 ## Objetivo
 
-Investigar se as características físico-químicas ajudam a identificar vinhos de alta qualidade. A variável `quality` foi convertida em classificação binária:
+Desenvolver um modelo de classificação capaz de prever a qualidade de um vinho com base em suas características físico-químicas. Para simplificar o problema, a variável de qualidade foi transformada em uma classificação binária:
 
-- **Alta qualidade:** nota ≥ 7 (`1`)
-- **Baixa ou média qualidade:** nota < 7 (`0`)
+- **Vinho de Alta Qualidade:** nota ≥ 7.
+- **Vinho de Baixa/Média Qualidade:** nota < 7.
 
 ## Principais resultados
 
