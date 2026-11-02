@@ -66,7 +66,8 @@ Os slides abaixo foram exportados da apresentação final para facilitar a leitu
 
 - [PowerPoint final](docs/Apresentacao_Tech_Fase_2.pptx)
 - [Apresentação em PDF](docs/Apresentacao_Tech_Fase_2.pdf)
-
+- [Vídeo de apresentação](https://www.youtube.com/watch?v=PSQmIYdXeAQ)
+  
 ## Base de dados
 
 O arquivo `data/raw/WineQT.csv` contém 1.143 amostras e 13 colunas, incluindo o identificador `Id` e a variável `quality`. A fonte indicada no trabalho é o [Wine Quality Dataset no Kaggle](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset).
